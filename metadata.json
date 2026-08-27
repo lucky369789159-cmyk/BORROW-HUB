@@ -1,0 +1,6 @@
+{
+  "name": "BorrowHub",
+  "description": "Hyperlocal everyday item lending, borrowing, and Uber-style request network with AI photo listing and trust protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
